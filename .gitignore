@@ -1,3 +1,7 @@
 venv/
 20240103_texts_with_dates.csv
 encoded_df_blanks_as_na.csv
+.trunk/*
+.conda/*
+models/*
+requirements.txt
